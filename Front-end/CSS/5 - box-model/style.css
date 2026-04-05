@@ -1,0 +1,35 @@
+p {
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+/* 
+padding -> espaçamento interno (espaço entre o conteúdo e a borda).
+
+padding-top -> espaçamento interno superior
+padding-right -> espaçamento interno direito
+padding-bottom -> espaçamento interno inferior
+padding-left -> espaçamento interno esquerdo
+
+padding: 20px 10px 5px 30px (20px em cima, 10px à direita, 5px embaixo, 30px à esquerda).
+
+
+margin -> espaçamento externo (espaço entre a borda e outros elementos).
+
+margin-top -> espaçamento externo superior
+margin-right -> espaçamento externo direito
+margin-bottom -> espaçamento externo inferior
+margin-left -> espaçamento externo esquerdo
+
+margin: 15px 5px 10px 0 (15px em cima, 5px à direita, 10px embaixo, 0px à esquerda).
+
+border -> borda
+width -> largura do conteúdo
+height -> altura do conteúdo
+content -> área do conteúdo
+box-sizing: border-box -> inclui padding e border na largura total do elemento
+
+*/
